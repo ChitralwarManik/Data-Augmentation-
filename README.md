@@ -14,8 +14,9 @@ The Keras deep learning neural network library provides the capability to fit mo
 * Image data augmentation is used to expand the training dataset in order to improve the performance and ability of the model to generalize.
 * Image data augmentation is supported in the Keras deep learning library via the ImageDataGenerator class.
 * How to use shift, flip, brightness, and zoom image data augmentation.
-
-![]https://github.com/ChitralwarManik/Data-Augmentation-/blob/main/New%20task/Augmented%20Images/data-set-icon-11.jpg)
+<p align="center">
+  <img width="600" height="400" src="https://github.com/ChitralwarManik/Data-Augmentation-with-Keras/blob/main/New%20task/Augmented%20Images/pytorch-data-augmentation-process.png">
+</p>
 
 The performance of deep learning neural networks often improves with the amount of data available.
 
@@ -56,5 +57,3 @@ A range of techniques are supported, as well as pixel scaling methods. We will f
 # Augmented Images
 ![](https://github.com/ChitralwarManik/Data-Augmentation-/blob/main/New%20task/Augmented%20Images/Capture.PNG)
 ![](https://github.com/ChitralwarManik/Data-Augmentation-/blob/main/New%20task/Augmented%20Images/Capture1.PNG)
-
-Thanks
