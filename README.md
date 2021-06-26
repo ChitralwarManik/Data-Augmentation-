@@ -1,4 +1,4 @@
-# How to Configure Image Data Augmentation in Keras.
+# How to Configure Image Data Augmentation in Keras
 <p align="center">
   <img width="512" height="512" src="https://github.com/ChitralwarManik/Data-Augmentation-/blob/main/New%20task/Augmented%20Images/data-set-icon-11.jpg">
 </p>
