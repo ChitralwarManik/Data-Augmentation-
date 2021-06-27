@@ -58,12 +58,15 @@ A range of techniques are supported, as well as pixel scaling methods. We will f
 ![](https://github.com/ChitralwarManik/Data-Augmentation-/blob/main/New%20task/Augmented%20Images/Capture.PNG)
 ![](https://github.com/ChitralwarManik/Data-Augmentation-/blob/main/New%20task/Augmented%20Images/Capture1.PNG)
 
-# How to run this code
-step 1: You must have keras and tensorflow installed in you system in case you don't then check this link ![Install Kears and tensorflow](https://www.youtube.com/watch?v=Q6Nbaod_AGs)
+# How to Run this code?
+step 1: You must have keras and tensorflow installed in you system in case you don't then check this link  [![Install Keras and Tensorflow](https://res.cloudinary.com/marcomontalbano/image/upload/v1624781003/video_to_markdown/images/youtube--Q6Nbaod_AGs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Q6Nbaod_AGs "Install Keras and Tensorflow")
 
 step 2: Download All code with all folder.
+
 step 3: Open the jupyter notebook in the downloded folder with the environment where keras and tensorflow is installed.
+
 step 4: Add original images to **images foider**and Run the code 
+
 step 5: You will get your augmented images into **Augmented images folder**.
 
 If you like the content then do hit the star Thank you.
